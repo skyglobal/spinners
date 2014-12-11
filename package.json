@@ -1,6 +1,6 @@
 {
     "name": "spinners",
-    "version": "0.0.12",
+    "version": "0.1.0",
     "description": "Toolkit Spinner",
     "devDependencies": {
         "browser-sync": "^1.5.9",
