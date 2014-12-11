@@ -9,11 +9,11 @@ See http://{{ git.user }}.github.io/{{ component }}/ for a demo of the Component
 
 ### As CSS
 
-http://web-toolkit.global.sky.com/components/{{ component }}/0.0.5/css/{{ component }}.css
+http://web-toolkit.global.sky.com/components/{{ component }}/null/css/{{ component }}.css
 
 ### As JS
 
-http://web-toolkit.global.sky.com/components/{{ component }}/0.0.5/js/{{ component }}.js
+http://web-toolkit.global.sky.com/components/{{ component }}/null/js/{{ component }}.js
 
 ### As a Sass Module
 
