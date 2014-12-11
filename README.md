@@ -1,7 +1,7 @@
 [spinners](http://skyglobal.github.io/spinners/) 
 ========================
 
-> Spinners
+> Toolkit Spinners
 
 See http://skyglobal.github.io/spinners/ for a demo of the Component
 
