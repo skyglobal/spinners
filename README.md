@@ -9,7 +9,7 @@ See http://skyglobal.github.io/spinners/ for a demo of the Component
 
 ### As CSS
 
-http://web-toolkit.global.sky.com/components/spinners/0.0.110/css/spinners.css
+http://web-toolkit.global.sky.com/components/spinners/0.0.121/css/spinners.css
 
 ### As a Sass Module
 
