@@ -1,23 +1,19 @@
-[{{ component }}](http://{{ git.user }}.github.io/{{ component }}/) 
+[spinners](http://skyglobal.github.io/spinners/) 
 ========================
 
-> {{ component }}
+> Spinners
 
-See http://{{ git.user }}.github.io/{{ component }}/ for a demo of the Component
+See http://skyglobal.github.io/spinners/ for a demo of the Component
 
 ## Usage
 
 ### As CSS
 
-http://web-toolkit.global.sky.com/components/{{ component }}/0.0.10/css/{{ component }}.css
-
-### As JS
-
-http://web-toolkit.global.sky.com/components/{{ component }}/0.0.10/js/{{ component }}.js
+http://web-toolkit.global.sky.com/components/spinners/0.0.110/css/spinners.css
 
 ### As a Sass Module
 
-`bower install --save-dev bskyb-{{ component }}`
+`bower install --save-dev bskyb-spinners`
 
 ### Locally
 
