@@ -1,23 +1,26 @@
-[spinners](http://skyglobal.github.io/spinners/) 
+[Spinners](http://skyglobal.github.io/spinners/) [![Circle CI](https://circleci.com/gh/skyglobal/spinners/tree/master.svg?style=svg)](https://circleci.com/gh/skyglobal/spinners/tree/master)
 ========================
 
-> Toolkit Spinners
+> Please take a look at the [demo page](http://skyglobal.github.io/spinners/)
 
-See http://skyglobal.github.io/spinners/ for a demo of the Component
+## Quick-Start
 
-## Usage
+Include the Share assets in your project either as **Static Resources**
 
-### As CSS
+```
+<link rel="stylesheet" href="http://web-toolkit.global.sky.com/components/spinners/0.0.3/css/spinners.css" />
+```
 
-http://web-toolkit.global.sky.com/components/spinners/0.0.3/css/spinners.css
+or alternatively, **Via Bower**
 
-### As a Sass Module
+ * Run: `bower install --save-dev bskyb-spinners`
+ * Include Sass: `@import 'bower_components/bskyb-spinners/src/scss/spinners';`
 
-`bower install --save-dev bskyb-spinners`
+#### Developer Notes
 
-### Locally
-
-`gulp serve`
+Choose a type of Spinner component and copy the relevant html.
+ * [Default](demo/_includes/default.html) : `class=spinner`
+ * [Large](demo/_includes/large.html), : `class=spinner spinner--large`
 
 ## Contribution
 

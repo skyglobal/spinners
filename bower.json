@@ -3,17 +3,20 @@
     "version": "0.0.4",
     "homepage": "https://github.com/skyglobal/spinners",
     "authors": [
-        "Sabeur Thabti sabeur.thabti@bskyb.com>"
+        "Peter Mouland <peter.mouland@gmail.com>",
+        "Sabeur Thabti <sabeur.thabti@bskyb.com>"
     ],
     "description": "spinners",
     "main": "dist",
-    "license": "MIT",
+    "license": "BSD3",
     "ignore": [
         "**/*",
-        "!dist/**/*"
+        "!dist/**/*",
+        "!src/**/*"
     ],
     "devDependencies": {
-        "bskyb-colours": "~0.0.9",
-        "bskyb-typography": "~0.0.6"
+        "bskyb-grid": "~0.1.0",
+        "bskyb-colours": "~0.1.0",
+        "bskyb-typography": "~0.1.0"
     }
 }
