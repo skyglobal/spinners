@@ -8,7 +8,7 @@
 Include the Share assets in your project either as **Static Resources**
 
 ```
-<link rel="stylesheet" href="http://web-toolkit.global.sky.com/components/spinners/0.1.0/styles/spinners.min.css" />
+<link rel="stylesheet" href="http://web-toolkit.global.sky.com/components/spinners/0.2.0/styles/spinners.min.css" />
 ```
 
 or alternatively, **Via Bower**
