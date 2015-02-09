@@ -3,14 +3,12 @@
     "version": "0.1.0",
     "description": "Spinners",
     "devDependencies": {
-        "browser-sync": "^1.5.9",
         "gulp": "^3.8.10",
-        "gulp-component-helper": "^0.4.2",
-        "run-sequence": "^1.0.1"
+        "component-helper": "^0.8.9"
     },
     "repository": {
         "type": "git",
         "url": "git://github.com/skyglobal/spinners.git"
     },
-    "author": "BSkyB"
+    "author": "peter mouland <peter.mouland@gmail.com>"
 }

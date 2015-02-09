@@ -1,9 +1,17 @@
-//@import here
-@import 'bower_components/bskyb-colours/src/scss/colours';
-@import 'bower_components/bskyb-typography/src/scss/typography';
-@import 'bower_components/bskyb-grid/src/scss/grid';
+@import 'bower_components/bskyb-core/src/styles/core';
 
 /* Common demo Sass here */
+.demo-container {
+  width: 94.059%;
+  max-width: 1140px;
+  margin: 0 auto;
+  clear: left;
+  overflow: visible; }
+
+.demo-updated {
+  display: block;
+  font-size: 0.3em;
+}
 .demo-block{
   margin-bottom: 20px;
   display: block;
@@ -34,4 +42,18 @@
   display: block;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
 
+code{
+  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}

@@ -7,7 +7,7 @@
         "Sabeur Thabti <sabeur.thabti@bskyb.com>"
     ],
     "description": "spinners",
-    "main": "dist",
+    "main": "dist/styles/spinners.css",
     "license": "BSD3",
     "ignore": [
         "**/*",
@@ -15,8 +15,6 @@
         "!src/**/*"
     ],
     "devDependencies": {
-        "bskyb-grid": "~0.1.0",
-        "bskyb-colours": "~0.1.0",
-        "bskyb-typography": "~0.1.0"
+        "bskyb-core": "~0.0.3"
     }
 }
